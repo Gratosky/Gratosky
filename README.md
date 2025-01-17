@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me greykym0@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
